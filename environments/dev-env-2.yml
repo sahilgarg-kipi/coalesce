@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "2"
+mappingDefinitions:
+  HARMONIZED:
+    database: COALESCE
+    schema: HARMONIZED
+  RAW:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+name: dev-env
+type: Environment
