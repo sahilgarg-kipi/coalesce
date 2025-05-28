@@ -10,7 +10,7 @@ operation:
   deployEnabled: true
   description: ""
   isMultisource: false
-  locationName: RAW
+  locationName: HARMONIZED
   materializationType: table
   metadata:
     appliedNodeTests: []
