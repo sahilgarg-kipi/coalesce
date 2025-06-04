@@ -7,5 +7,8 @@ mappingDefinitions:
   RAW:
     database: SNOWFLAKE_SAMPLE_DATA
     schema: TPCH_SF1
+  RAW_COALESCE_DB:
+    database: COALESCE
+    schema: RAW
 name: dev-env
 type: Environment

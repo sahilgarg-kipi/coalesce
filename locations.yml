@@ -3,3 +3,4 @@ fileVersion: 1
 locations:
   - HARMONIZED
   - RAW
+  - RAW_COALESCE_DB
